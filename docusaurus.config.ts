@@ -13,7 +13,7 @@ const config: Config = {
   url: 'https://songhan89.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/songhan89.github.io/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -30,6 +30,14 @@ const config: Config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+  },
+
+  // Add the Mermaid theme
+  themes: ['@docusaurus/theme-mermaid'],
+  
+  // Enable Mermaid in markdown
+  markdown: {
+    mermaid: true,
   },
 
   presets: [
@@ -77,7 +85,7 @@ const config: Config = {
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/treasure-trove', label: 'Treasure Trove', position: 'left'},
-        {to: '/docs/intro', label: 'Tutorial', position: 'left'},
+        {to: '/docs/intro', label: 'Notes', position: 'left'},
         {to: '/about', label: 'About Me', position: 'left'},
         {
           href: 'https://github.com/songhan89',
@@ -101,7 +109,7 @@ const config: Config = {
               to: '/treasure-trove',
             },
             {
-              label: 'Tutorial',
+              label: 'Notes',
               to: '/docs/intro',
             },
             {

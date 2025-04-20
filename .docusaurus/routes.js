@@ -3,200 +3,200 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/songhan89.github.io/__docusaurus/debug',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug', 'f42'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/songhan89.github.io/__docusaurus/debug/config',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug/config', '9f4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/songhan89.github.io/__docusaurus/debug/content',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug/content', 'c68'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/songhan89.github.io/__docusaurus/debug/globalData',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug/globalData', '313'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/songhan89.github.io/__docusaurus/debug/metadata',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug/metadata', 'cfc'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/songhan89.github.io/__docusaurus/debug/registry',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug/registry', '541'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/songhan89.github.io/__docusaurus/debug/routes',
+    component: ComponentCreator('/songhan89.github.io/__docusaurus/debug/routes', '52c'),
     exact: true
   },
   {
-    path: '/about',
-    component: ComponentCreator('/about', '954'),
+    path: '/songhan89.github.io/about',
+    component: ComponentCreator('/songhan89.github.io/about', '15b'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/songhan89.github.io/blog',
+    component: ComponentCreator('/songhan89.github.io/blog', '092'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/songhan89.github.io/blog/archive',
+    component: ComponentCreator('/songhan89.github.io/blog/archive', 'e20'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/songhan89.github.io/blog/authors',
+    component: ComponentCreator('/songhan89.github.io/blog/authors', '3dc'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/songhan89.github.io/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/songhan89.github.io/blog/authors/all-sebastien-lorber-articles', 'cec'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/songhan89.github.io/blog/authors/yangshun',
+    component: ComponentCreator('/songhan89.github.io/blog/authors/yangshun', '27d'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/songhan89.github.io/blog/first-blog-post',
+    component: ComponentCreator('/songhan89.github.io/blog/first-blog-post', 'a87'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/songhan89.github.io/blog/long-blog-post',
+    component: ComponentCreator('/songhan89.github.io/blog/long-blog-post', 'c97'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/songhan89.github.io/blog/mdx-blog-post',
+    component: ComponentCreator('/songhan89.github.io/blog/mdx-blog-post', 'da3'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/songhan89.github.io/blog/tags',
+    component: ComponentCreator('/songhan89.github.io/blog/tags', 'd5d'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/songhan89.github.io/blog/tags/docusaurus',
+    component: ComponentCreator('/songhan89.github.io/blog/tags/docusaurus', '60d'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/songhan89.github.io/blog/tags/facebook',
+    component: ComponentCreator('/songhan89.github.io/blog/tags/facebook', '312'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/songhan89.github.io/blog/tags/hello',
+    component: ComponentCreator('/songhan89.github.io/blog/tags/hello', 'c38'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    path: '/songhan89.github.io/blog/tags/hola',
+    component: ComponentCreator('/songhan89.github.io/blog/tags/hola', 'b06'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/songhan89.github.io/blog/welcome',
+    component: ComponentCreator('/songhan89.github.io/blog/welcome', '9c6'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/songhan89.github.io/markdown-page',
+    component: ComponentCreator('/songhan89.github.io/markdown-page', '1c4'),
     exact: true
   },
   {
-    path: '/treasure-trove',
-    component: ComponentCreator('/treasure-trove', '2cb'),
+    path: '/songhan89.github.io/treasure-trove',
+    component: ComponentCreator('/songhan89.github.io/treasure-trove', '471'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/songhan89.github.io/docs',
+    component: ComponentCreator('/songhan89.github.io/docs', '304'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/songhan89.github.io/docs',
+        component: ComponentCreator('/songhan89.github.io/docs', 'ae4'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/songhan89.github.io/docs',
+            component: ComponentCreator('/songhan89.github.io/docs', '595'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/songhan89.github.io/docs/category/tutorial---basics',
+                component: ComponentCreator('/songhan89.github.io/docs/category/tutorial---basics', '12c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/songhan89.github.io/docs/category/tutorial---extras',
+                component: ComponentCreator('/songhan89.github.io/docs/category/tutorial---extras', '32a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/songhan89.github.io/docs/intro',
+                component: ComponentCreator('/songhan89.github.io/docs/intro', 'aa9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/songhan89.github.io/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-basics/congratulations', 'c6c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/songhan89.github.io/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-basics/create-a-blog-post', 'dfb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/songhan89.github.io/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-basics/create-a-document', '26c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/songhan89.github.io/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-basics/create-a-page', 'c5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/songhan89.github.io/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-basics/deploy-your-site', 'a06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/songhan89.github.io/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-basics/markdown-features', 'ffb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/songhan89.github.io/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-extras/manage-docs-versions', '02b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/songhan89.github.io/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/songhan89.github.io/docs/tutorial-extras/translate-your-site', '505'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -207,8 +207,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    path: '/songhan89.github.io/',
+    component: ComponentCreator('/songhan89.github.io/', '5d0'),
     exact: true
   },
   {

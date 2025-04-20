@@ -7,10 +7,12 @@ export default {
   "title": "Songhan Wong",
   "tagline": "Personal Website & Blog",
   "favicon": "img/favicon.ico",
-  "url": "https://songhan.github.io",
-  "baseUrl": "/",
+  "url": "https://songhan89.github.io",
+  "baseUrl": "/songhan89.github.io/",
   "organizationName": "songhan89",
-  "projectName": "songhan.github.io",
+  "projectName": "songhan89.github.io",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -20,6 +22,21 @@ export default {
     ],
     "path": "i18n",
     "localeConfigs": {}
+  },
+  "themes": [
+    "@docusaurus/theme-mermaid"
+  ],
+  "markdown": {
+    "mermaid": true,
+    "format": "mdx",
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
   },
   "presets": [
     [
@@ -70,7 +87,7 @@ export default {
         },
         {
           "to": "/docs/intro",
-          "label": "Tutorial",
+          "label": "Notes",
           "position": "left"
         },
         {
@@ -101,7 +118,7 @@ export default {
               "to": "/treasure-trove"
             },
             {
-              "label": "Tutorial",
+              "label": "Notes",
               "to": "/docs/intro"
             },
             {
@@ -351,6 +368,13 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
+    },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
     }
   },
   "baseUrlIssueBanner": true,
@@ -376,23 +400,10 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    }
-  }
+  "noIndex": false
 };
