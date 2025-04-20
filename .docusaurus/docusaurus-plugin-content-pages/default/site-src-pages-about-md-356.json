@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/about",
+  "source": "@site/src/pages/about.md",
+  "title": "About Me",
+  "description": "Learn more about Songhan Wong",
+  "frontMatter": {
+    "title": "About Me",
+    "description": "Learn more about Songhan Wong"
+  },
+  "unlisted": false
+}
